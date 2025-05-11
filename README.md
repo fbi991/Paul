@@ -53,7 +53,7 @@ const Paul = {
 
 
 
-<p align="center"> <a href="https://linkedin.com/in/paulngsign"><img src="https://img.shields.io/badge/LinkedIn-Paul%20Nguyen-blue?style=flat&logo=linkedin" width="800" /></a> </p>
+<p align="center"> <a href="https://linkedin.com/in/paulngsign"><img src="https://img.shields.io/badge/LinkedIn-CLICK%20-blue?style=flat&logo=linkedin" width="800" /></a> </p>
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" width="800" />
